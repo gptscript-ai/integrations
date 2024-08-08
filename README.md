@@ -8,12 +8,17 @@ These tools can only be used with the GPTScript Gateway, which handles the OAuth
 
 These are the available tools for working with Outlook Mail and Calendar:
 
+### Mail
+
 - github.com/gptscript-ai/integrations/outlook/mail/read
   - Contains tools to read your emails, but nothing that will modify or delete any emails.
 - github.com/gptscript-ai/integrations/outlook/mail/manage
   - Contains tools to manage your emails, including creating and sending new emails, but no tools that can delete anything.
 - github.com/gptscript-ai/integrations/outlook/mail/delete
   - Contains tools to read and delete your emails, but not send any new ones.
+
+### Calendar
+
 - github.com/gptscript-ai/integrations/outlook/calendar/read
   - Contains tools to find information from your calendars, but not create any new events.
 - github.com/gptscript-ai/integrations/outlook/calendar/manage
