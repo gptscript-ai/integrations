@@ -1,5 +1,5 @@
 Name: Read Notion
-Share Credential: github.com/gptscript-ai/gateway-oauth2 as notion.read with NOTION_TOKEN as env and notion-read as integration
+Share Credential: github.com/gptscript-ai/gateway-oauth2 as notion.read with NOTION_TOKEN as env and notion as integration
 Share Tools: getPage from github.com/gptscript-ai/notion-integration
 Share Tools: getDatabase from github.com/gptscript-ai/notion-integration
 Share Tools: search from github.com/gptscript-ai/notion-integration
